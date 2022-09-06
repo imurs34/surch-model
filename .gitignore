@@ -1,0 +1,9 @@
+*.swp
+*.swo
+*__pycache__*
+trained_models
+.env
+saved_models
+*.pkl
+data/*
+wandb/*
